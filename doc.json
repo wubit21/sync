@@ -1,0 +1,104 @@
+{
+    "questions": [
+        {
+            "question": "hi",
+            "answer": "hi there! I can teach you some things  I know about pyhton. Ask me anything you want!"
+        },
+        {
+            "question": "W-Chatbot",
+            "answer": "Yes! Wanna know some facts about python? Ask me!"
+        },
+        {
+            "question": "hello",
+            "answer": "Hello! I can teach you some things I know about pyhton. Ask me anything you want!"
+        },
+        {
+            "question": "Bye!",
+            "answer": "see you letter, type 'quit' to end the program."
+        },
+        {
+            "question": " Good Bye!",
+            "answer": " Have a nice day, type 'quit' to end the program."
+        },
+        {
+            "question": "I am gonna go",
+            "answer": "Okay bye!, type 'quit' to end the program."
+        },
+        {
+            "question": "See you letter",
+            "answer": "Okay!, type 'quit' to end the program."
+        },
+        {
+            "question": "How old are you?",
+            "answer": "Are you kidding? I don't have age!"
+        },
+        {
+            "question": "What are you?",
+            "answer": "my name is W-Chatbot, And I am a chatBot"
+        },
+        {
+            "question": "how are you?",
+            "answer": "I am fine thank you!"
+        },
+        {
+            "question": "what language are you built in",
+            "answer": "I am built using python programming language"
+        },
+        {
+            "question": " what is your name?",
+            "answer": "W-Chatbot"
+        },
+        {
+            "question": "introduce your self",
+            "answer": "my name is W-Chatbot, I am built using python programming language. I can tell Some information about python if you ask me :)"
+        },
+        {
+            "question": "What are you?",
+            "answer": "I am a chatbot, I am built using python language"
+        },
+        {
+            "question": "I am bored",
+            "answer": " Wanna know some facts about python? Ask me!"
+        },
+        {
+            "question": "what is python",
+            "answer": " Python is an interpreted, object-oriented, high-level programming language with dynamic semantics."
+        },
+        {
+            "question": " What is python used for",
+            "answer": "Python is a computer programming language often used to build websites and software, automate tasks, and conduct data analysis. Python is a general-purpose language, meaning it can be used to create a variety of different programs and isn't specialized for any specific problems."
+        },
+        {
+            "question": "Is it difficult to learn Python?",
+            "answer": "Python is widely considered among the easiest programming languages for beginners to learn."
+        },
+        {
+            "question": "Is is Python easy?",
+            "answer": "Yes! Python is widely considered among the easiest programming languages for beginners to learn."
+        },
+        {
+            "question": "When was the Python invented?",
+            "answer": "Python was created by Guido van Rossum, and first released on February 20, 1991. While you may know the python as a large snake, the name of the Python programming language comes from an old BBC television comedy sketch series called Monty Python's Flying Circus."
+        },
+        {
+            "question": "What are the main features of Python?",
+            "answer": "Free and Open Source, Easy to code ,Easy to Read, Object-Oriented Language,GUI Programming Support,High-Level Language, Large Community Support and Easy to Debug."
+        },
+        {
+            "question": "What is Python introduction?",
+            "answer": "Python is a dynamic, interpreted (bytecode-compiled) language. There are no type declarations of variables, parameters, functions, or methods in source code. This makes the code short and flexible, and you lose the compile-time type checking of the source code."
+        },
+        {
+            "question": "What are key words in Python?",
+            "answer": "Python Keywords are some predefined and reserved words in python that have special meanings. Keywords are used to define the syntax of the coding. The keyword cannot be used as an identifier, function, or variable name. All the keywords in python are written in lowercase except True and False."
+        },
+        {
+            "question": "What are data types in Python?",
+            "answer": "Some built-in Python data types are:Numeric data types: int, float, complex . String data types: str.Sequence types: list, tuple, range.Binary types: bytes, bytearray, memoryview. Mapping data type: dict. Boolean type: bool. Set data types: set, frozenset. Python Numeric Data Type."
+        },
+        {
+            "question": "What are Python basics?",
+            "answer": "Python uses new lines to complete a command, as opposed to other programming languages which often use semicolons or parentheses. Python relies on indentation, using whitespace, to define scope; such as the scope of loops, functions and classes. Other programming languages often use curly-brackets for this purpose."
+        }
+    ]
+}
